@@ -74,7 +74,7 @@ theme: hueman
 
 # The following settings is the quick start options.
 generator_amp:
-  templateDir:  ../amp-template
+  templateDir:  amp-template
   assetDistDir: amp-dist
   logo:
     path:   sample/sample-logo.png
