@@ -2,7 +2,9 @@
 title: WordPressをやめて、Hexoでブログを書くことにしました
 date: 2016-12-03 20:19:26
 tags:
-categories: web
+categories:
+  - web
+  - 静的サイト
 description: WordPressでブログを書くのをやめて、Hexoにした理由など。サーバーやPHPのこと、脆弱性のこと、静的HTMLでホスティングできるなら、それに越したことないじゃない的なお話。
 ---
 
