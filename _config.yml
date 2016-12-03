@@ -4,7 +4,7 @@
 
 # Site
 title: しかたこうきメディア
-subtitle:
+subtitle: 大阪のWebマーケティング会社でプランナーをしている人のメディア
 description: 大阪のWebマーケティング会社でプランナーをしている人のメディア
 author: しかたこうき
 language: ja
@@ -85,3 +85,13 @@ generator_amp:
     width:  1024
     height: 800
   warningLog: false   # If you want to validate, please set true.
+
+# Table of contents
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor
