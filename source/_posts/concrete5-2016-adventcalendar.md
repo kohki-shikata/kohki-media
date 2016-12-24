@@ -5,6 +5,7 @@ categories:
   - concrete5
 date: 2016-12-24 20:41:18
 tags:
+description: 大阪でconcrete5インテグレートパートナーをやっている会社でディレクターをしている私が納品したconcrete5案件の、小ネタを含めた実装事例をご紹介しています。
 ---
 
 この記事は、[concrete5 Advent Calendar 2016](http://www.adventar.org/calendars/1439)の参加記事です。
@@ -12,6 +13,8 @@ tags:
 前日は、concrete5界のアイドルこと、はやみさんによる[concrete5の謎メニュー調査レポート](http://berry22.com/blog/c5adcal20161223/)でした。
 
 掲題の通り、2015年から2016年にわたって、私が手がけてきたconcrete5の案件のうち、いくつかを、どのような機能を使って実装しているか、チラチラっとお見せしたいと思います。
+
+<!-- toc -->
 
 ## バーチャル展示会HYOGO!
 
