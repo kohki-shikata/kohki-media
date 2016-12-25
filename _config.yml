@@ -67,10 +67,10 @@ theme: hueman
 
 # Deployment
 # Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/kohki-shikata/kohki-media.git
-  branch: gh-pages
+# deploy:
+#   type: git
+#   repo: https://github.com/kohki-shikata/kohki-media.git
+#   branch: gh-pages
 
 # The following settings is the quick start options.
 generator_amp:
@@ -94,4 +94,4 @@ toc:
   anchor:
     position: after
     symbol: '#'
-    style: header-anchor
+    style: header-anchora
